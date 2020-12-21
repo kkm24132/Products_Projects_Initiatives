@@ -24,7 +24,7 @@ Some of the key benefits expected are as follows:
  
 There was no method or system available to optimally predict failure of ATM devices and its components using machine learning by considering multiple algorithm approaches and providing the most effective approach to address the problem. Secondly, manual prediction based on historical data or trend only, leads to inaccurate result, incorrect decisions, thus impacting availability issues of a device and huge loss to firms that impacts “availability of business” and leading to customer dissatisfaction. Thirdly, IT support taskforce of any firm will have multiple levels of support and there is a tremendous need to determine optimal deployment of field engineers to tackle problems related to devices that are installed across various geographies based on effective prediction.
 
-I have been involved as a Senior Data Scientist for more than a year in this offering / program, responsible for delivering solution / predictions in production on a monthly basis for the client. This solution has been in production for multiple quarters. This has been an ongoing journey for our firm where we have multiple teams located across various geographies. My collaboration with data analysts, program managers and all stakeholders have been fundamental throughout the entire life cycle of the program. I have worked closely with team in Europe geography and we as a team have provided solutions which has impacted significant client value. We used to provide our inputs and solution to local teams based out of Argentina from IBM and they used to interact with clients to deliver the solution to them.
+I have been involved as a Senior Data Scientist for more than a year in this offering / program, responsible for delivering solution / predictions in production on a monthly basis for the client. This solution has been in production for multiple quarters. This has been an ongoing journey for our firm where we have multiple teams located across various geographies. My collaboration with data analysts, program managers and all stakeholders have been fundamental throughout the entire life cycle of the program. I have worked closely with team in Europe geography and we as a team have provided solutions which has impacted significant client value. We used to provide our inputs and solution to local teams based out of Argentina from the organization and they used to interact with clients to deliver the solution to them.
 
 ## 2)Planning
 
@@ -129,7 +129,7 @@ The model and solution is used for the financial client and has a strong proven 
 
 Models that were built and deployed for this client in production, has predicted ATM and component level failures increasing availability by 3%, prediction of failures up to 50%, reduce service related downtime on critical components by 3%.
 
-They agreed to be reference customer for IBM and this is the first customer reference for Predictive Maintenance offering.
+They agreed to be reference customer for the organization and this is the first customer reference for Predictive Maintenance offering.
 
 Solutions around Predictive created impact by moving customer ranking from No.4 to No.1 in their region based on their end user satisfaction survey within few months of deployment.
 
