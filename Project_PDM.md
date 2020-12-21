@@ -42,6 +42,18 @@ From a business objective and understanding standpoint, we analyzed the need and
 - Inventory data (ATM Device level information regarding it’s make, model, component list, configuration parameters etc.), 
 - Transaction information (number of transactions, type and amount of transactions etc.), 
 - Priority usage etc. (Priority based on type of usage for business need) as input and determines likelihood of failure at a device and its component level within a stipulated future time-period with certain accuracy and precision for financial clients.
-- TAR Codes – These are extremely crucial and are part of service tickets which tells about the module or component of the ATM (such as Cash Dispenser, Card Reader, Receipt Printer etc.), the problem determination, the action performed by the service engineer while attempting to serve the ticket.
+- TAR Codes (Translation Activity Report) – These are extremely crucial and are part of service tickets which tells about the module or component of the ATM (such as Cash Dispenser, Card Reader, Receipt Printer etc.), the problem determination, the action performed by the service engineer while attempting to serve the ticket.
 
 ![Image1](/images/Image1.png)
+
+From data understanding standpoint, exploratory data analysis performed to understand the data sources in particular. We used to get data from client uploaded via EcuRep to IBM secure environment and made available in DB2 database repository.
+
+We used R to write programs to analyze the data sources – primarily service ticket information including TAR codes, asset or inventory information of ATM machines, model, installation date etc. and error code / event codes.
+
+Detailed exploratory analysis performed to understand some aspects such as –
+- Total number of service tickets by month and trend
+- ATM device count and ticket count by model (WINCOR, NCR etc.)
+- Top N problematic ATMs with ticket counts
+- Total downtime by failure reason
+- TAR code spread by module/ component of ATM devices
+
