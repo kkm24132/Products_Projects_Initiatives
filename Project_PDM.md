@@ -47,7 +47,7 @@ From a business objective and understanding standpoint, we analyzed the need and
 
 ![Image1](/images/Image1.png)
 
-From data understanding standpoint, exploratory data analysis performed to understand the data sources in particular. We used to get data from client uploaded via EcuRep to IBM secure environment and made available in DB2 database repository.
+From data understanding standpoint, exploratory data analysis performed to understand the data sources in particular. We used to get data from client uploaded via EcuRep to organization's secure environment and made available in DB2 database repository.
 
 We used R to write programs to analyze the data sources – primarily service ticket information including TAR codes, asset or inventory information of ATM machines, model, installation date etc. and error code / event codes.
 
