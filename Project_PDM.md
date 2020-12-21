@@ -112,6 +112,14 @@ Prediction Status | Not Failed         | Failed
 No Prediction     | True Negative (TN) | False Negative (FN)
 Prediction        | False Positive (FP)| True Positive (TP)
 
-Model Output sample:
+#### Model Output sample:
 
 The precision and recall chart below is derived after several steps of experiments that are performed and mentioned to refine the performance of the model.  The feature importance graph is derived from the regularized random forest model (for top 30~35 features) based on the Gini coefficient. The chart is shown below for reference.
+
+![Image5](/images/Image5.png)
+
+Final predictive output that is generated in an excel format includes device id, probability of failure, priority and top 3 components in order of failure likelihood.
+
+![Image6](/images/Image6.png)
+
+
