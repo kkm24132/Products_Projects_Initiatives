@@ -23,6 +23,25 @@ Some of the key benefits expected are as follows:
  
 There was no method or system available to optimally predict failure of ATM devices and its components using machine learning by considering multiple algorithm approaches and providing the most effective approach to address the problem. Secondly, manual prediction based on historical data or trend only, leads to inaccurate result, incorrect decisions, thus impacting availability issues of a device and huge loss to firms that impacts “availability of business” and leading to customer dissatisfaction. Thirdly, IT support taskforce of any firm will have multiple levels of support and there is a tremendous need to determine optimal deployment of field engineers to tackle problems related to devices that are installed across various geographies based on effective prediction.
 
-I have been involved as a Senior Data Scientist for more than a year in this offering / program, responsible for delivering solution / predictions in production on a monthly basis for the client. This solution has been in production for 24+ months. This has been an ongoing journey for our firm where we have multiple teams located across various geographies. My collaboration with data analysts, program managers and all stakeholders have been fundamental throughout the entire life cycle of the program. I have worked closely with team in Europe geography and we as a team have provided solutions which has impacted significant client value. We used to provide our inputs and solution to local teams based out of Argentina from IBM and they used to interact with clients to deliver the solution to them.
+I have been involved as a Senior Data Scientist for more than a year in this offering / program, responsible for delivering solution / predictions in production on a monthly basis for the client. This solution has been in production for multiple quarters. This has been an ongoing journey for our firm where we have multiple teams located across various geographies. My collaboration with data analysts, program managers and all stakeholders have been fundamental throughout the entire life cycle of the program. I have worked closely with team in Europe geography and we as a team have provided solutions which has impacted significant client value. We used to provide our inputs and solution to local teams based out of Argentina from IBM and they used to interact with clients to deliver the solution to them.
+
+## Planning
+
+We followed the CRISP-DM methodology and entire life cycle:
+
+* Business Understanding 
+* Data Understanding
+* Data Preparation
+* Model development
+* Model evaluation
+* Deployment
+
+From a business objective and understanding standpoint, we analyzed the need and data sources which are available and considered as base – 
+- Service Tickets (logged for a problem of a specific component of an ATM device), 
+- Event information or Error codes (for a problem against a particular component in the device), 
+- Inventory data (ATM Device level information regarding it’s make, model, component list, configuration parameters etc.), 
+- Transaction information (number of transactions, type and amount of transactions etc.), 
+- Priority usage etc. (Priority based on type of usage for business need) as input and determines likelihood of failure at a device and its component level within a stipulated future time-period with certain accuracy and precision for financial clients.
+- TAR Codes – These are extremely crucial and are part of service tickets which tells about the module or component of the ATM (such as Cash Dispenser, Card Reader, Receipt Printer etc.), the problem determination, the action performed by the service engineer while attempting to serve the ticket.
 
 
