@@ -94,11 +94,38 @@ Then we did try to make stationary on mean and variance both by computing log tr
 
 ![Image14](/images/Image14.png)
 
-We experimented to plot ACF (Auto correlation factor) and PACF (Partial auto correlation factor) plots to see the following in figure 9. Initial observations with the experiment indicated that there are some observations which are outside of the upper and lower limits. Objective is to refine the model to have residuals are within the lower and upper limits as per ACF and PACF plots.
+We experimented to plot ACF (Auto correlation factor) and PACF (Partial auto correlation factor) plots to see the following in the figure below. Initial observations with the experiment indicated that there are some observations which are outside of the upper and lower limits. Objective is to refine the model to have residuals are within the lower and upper limits as per ACF and PACF plots.
 
 ![Image15](/images/Image15.png)
 
+![Image16](/images/Image16.png)
+
+![Image17](/images/Image17.png)
+
+Identifying best fit ARIMA model:
+-	We had looked at parameters such as AIC, BIC and AICc which optimize the p,d,q values of ARIMA model
+-	We had used both R and Python here. The Auto ARIMA function in forecast package in R helped us identify the best fit model. Additionally, we had generated combination of p, d, q to select the optimal parameter values using Python. The technique is “grid search” where we iteratively explore different combinations of parameters. 
+-	Using “grid search”, using combination of parameters, we had tried to fit a new seasonal ARIMA model with the SARIMAX() function from “statsmodels” module and assess AIC, BIC scores. We try to aim for least AIC and BIC score to get optimal model.
+
+![Image18](/images/Image18.png)
+
+AIC or Akaike Information Criterion – is an effort to balance the model between goodness-of-fit and number of parameters used in the model.
+AICc – is important when sample size is small. This is AIC with some correction for smaller sample sizes. Hence wherever we feel AIC will overfit, we will refer to AICc to interpret our valuation of model performance.
+BIC or Bayesian Information Criterion – is closely related to AIC and linked to the log likelihood.
+
+![Image19](/images/Image19.png)
+
+Forecasting for a longer period such as 3 years had been a tough ask considering the forecasted range may not be relevant after 3-6 months since input data changes and there are lot of influential parameters that we will come to know in future.
+We proposed a 3-year forecast, at the same time we also set expectation to revisit it every 3-6 months cycle so that the forecasting model can be re-calibrated to see if there is any change at that point in time.
 
 
 ## 4)Solution Implementation
+
+The model / solution was implemented for the manufacturing client. Key business outcomes accomplished are 
+- Providing desired forecasting solution for equipment sales which was the primary objective for the client.
+- Explaining data with analysis based on information at hand to give them decision making ability and they were able to manage inventory better. 
+- Setting expectations to evaluate the solution projection at a regular interval in future in every 3-6 months.
+- Training client SPOC to be able to execute model at a certain regular interval and see if there is any deviation in the proposed forecasted sales.
+
+I had played the lead role in driving the solution which we had developed from end to end perspective. This also has resulted in giving us more work as we were able to influence client to help them in their journey which has started as part of this effort here. Recommending them to look at a solution with generating forecasted values in short term intervals (such as 3-6 months basis) has been appreciated as client have seen the impact.
 
