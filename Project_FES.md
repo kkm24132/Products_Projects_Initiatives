@@ -6,7 +6,7 @@ Project Name   | Forecasting Equipment Sales
 Client Industry| Manufacturing
 Nature of project| Revenue Generation
 Your primary role on the project| Analytics/Data Science Lead
-Technology area | Data Science, Machine Learning, Deep Learning
+Technology area | Data Science, Machine Learning, Time Series Forecasting
 
 I am involved in all stages of CRISP-DM phases and it is iterative and ongoing for multiple experiments / improvements and enhancements.
 
