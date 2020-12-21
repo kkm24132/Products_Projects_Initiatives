@@ -107,6 +107,10 @@ Precision will tell what portion of time we will be correct about our prediction
 
 The confusion matrix around prediction or no prediction will be as follows:
 
+Prediction Status | Not Failed         | Failed
+------------------|--------------------|--------------------
+No Prediction     | True Negative (TN) | False Negative (FN)
+Prediction        | False Positive (FP)| True Positive (TP)
 
 Model Output sample:
 
