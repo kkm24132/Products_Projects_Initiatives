@@ -123,4 +123,20 @@ Final predictive output that is generated in an excel format includes device id,
 
 ![Image6](/images/Image6.png)
 
+## Solution Implementation
+
+The model and solution is used for the financial client and has a strong proven success story already running in production. The business objective for the financial giant is to move up the value chain leveraging predictive to showcase impact in terms of increase in availability of devices, reducing downtime of devices, ability to decrease service tickets and become leading brand in their geography based on customer satisfaction. The business objectives are achieved with this and goal is to further research and scale this beyond multiple financial clients and other industries.
+
+Models that were built and deployed for this client in production, has predicted ATM and component level failures increasing availability by 3%, prediction of failures up to 50%, reduce service related downtime on critical components by 3%.
+
+They agreed to be reference customer for IBM and this is the first customer reference for Predictive Maintenance offering.
+
+Solutions around Predictive created impact by moving customer ranking from No.4 to No.1 in their region based on their end user satisfaction survey within few months of deployment.
+
+Some of the key lessons learnt as part of this project are as follows:
+- Data quality (especially TAR codes which contain key information such as the module / component of the ATM device, problem determination, actions performed by staff engineers etc.) must to be taken care of in order to expect higher amount of prediction accuracy and specifically in model performance aspects.
+- Providing data in a defined format (kind of a data request template) would ease the data collection and reduce data quality issues during the initial phases of the project.
+- Educating various stakeholders about the importance of data quality, the influential parameters that impact the outcome of a model prediction.
+- There is always a learning in feature engineering process and we realized during the dynamic / static window approach which was followed during training of the model.
+- Importance of business understanding and rules in terms of trying various experiments, different models and choosing which one is better is also improvised upon. 
 
