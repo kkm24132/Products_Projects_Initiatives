@@ -44,4 +44,4 @@ From a business objective and understanding standpoint, we analyzed the need and
 - Priority usage etc. (Priority based on type of usage for business need) as input and determines likelihood of failure at a device and its component level within a stipulated future time-period with certain accuracy and precision for financial clients.
 - TAR Codes – These are extremely crucial and are part of service tickets which tells about the module or component of the ATM (such as Cash Dispenser, Card Reader, Receipt Printer etc.), the problem determination, the action performed by the service engineer while attempting to serve the ticket.
 
-
+![Image1](/images/Image1.png)
