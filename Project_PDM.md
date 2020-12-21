@@ -57,3 +57,20 @@ Detailed exploratory analysis performed to understand some aspects such as –
 - Total downtime by failure reason
 - TAR code spread by module/ component of ATM devices
 
+![Image2](/images/Image2.png)
+
+We have used dplyr, tidyr, data.table, caret, purr, lubridate, jsonlite, stringr and some other libraries in R to leverage data wrangling, data manipulation, date handling etc capabilities and prepare dataset for the machine learning algorithms.
+
+A method and approach is created to optimally predict failure of devices at a component level (such as Cash Dispenser, Card Reader, Receipt Printer etc.). The system will consider a machine learning approach of algorithm to determine the probability of failure at every
+component level:
+- based on a fixed time window
+- based on dynamic time window
+
+and will provide an optimal prediction output in terms of probability of failure from 0 to 1.
+
+The system can be executed at a monthly level or bimonthly level or weekly level (depending on frequency chosen) to provide predictions for a device and against each
+and every component / module as applicable. Based on these predictions, resources or field engineers will be allocated optimally to perform maintenance tasks, they can also be allocated depending on number of preventive tasks required for a region.
+
+![Image3](/images/Image3.png)
+
+
