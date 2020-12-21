@@ -6,6 +6,7 @@ Project Name   | Predictive Maintenance – Failure Prediction Solution
 Client Industry| Banking and Financial Services (BFS)
 Nature of project| Revenue Generation and Expense Reduction
 Your primary role on the project| Senior Data Scientist
+Technology area | Data Science, Machine Learning, Deep Learning
 
 I am involved in all stages of CRISP-DM phases and it is iterative and ongoing for multiple experiments / improvements and enhancements.
 
