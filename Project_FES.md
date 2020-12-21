@@ -129,3 +129,8 @@ The model / solution was implemented for the manufacturing client. Key business 
 
 I had played the lead role in driving the solution which we had developed from end to end perspective. This also has resulted in giving us more work as we were able to influence client to help them in their journey which has started as part of this effort here. Recommending them to look at a solution with generating forecasted values in short term intervals (such as 3-6 months basis) has been appreciated as client have seen the impact.
 
+Some of the key lessons learnt as part of this program are as follows:
+-	Planning and conducting multiple workshops to discuss with client touch points, stakeholders much early and following agile data science helped a lot. This was a great experience and we wanted to continue this practice for future projects. This need to be defined in the plans clearly.
+-	Educating various stakeholders about the importance of the forecasting process, methodology followed and aligning to kind of a CRISP-DM framework helped.
+-	Setting expectations to have a short term forecasted solution is better than a long-term forecasting approach (revising every 3-6 months depending on input data and other influential avenues) 
+-	Exploring with dynamic regression models (regression with ARIMA errors) could have been looked at given more time for the effort. More valid experiments, with evaluation and explaining why something is selected is very important for client as they don't like to see the solution coming as a "black-box" and doing some magic only.
