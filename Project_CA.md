@@ -84,3 +84,27 @@ To get the attrition probability of the customer, significant factors causing at
 
 ![Image23](/images/Image23.png)
 
+## 3) Solution Development
+
+Data Science Structure of the solution – CRISP-DM methodology was used as described earlier. The overall journey and roadmap strategy was to move from customer acquisition to customer development to customer retention. The scope for this project was to segment customers, look at their retention rate, perform life time value analysis and predict if they are going to churn or not. Based on this, the firm would like to take plan of action to tackle customers who are at a high profitable band and would like to churn, and to propose personalized offers for them as a retention strategy. There has been challenge in terms of complexity and various industry parameters. We defined to drive the entire transformation in a step wise manner by looking into the scope which is outlined above.
+
+Data analysis approaches – We performed missing value analysis, checking for any duplicates, one hot encoding wherever needed for categorical variables in the data. Then, we checked correlation between variables to see if we need to keep or remove any variables. We plotted bar charts for categorical variables against the target variable which is “churn” variable. We performed bar charts as we wanted to see if variables seem to posses reasonably broad distribution. All variables had that and we kept them for further analysis.
+
+We used multiple experiments using supervised machine learning - logistic regression, decision tree and random forest algorithms. Rationale of experimenting with these was due to the type of problem of churn / no churn that we are trying to solve this, which is kind of a binary classification problem. Also, to start with something like logistic regression will give us information on how various variables / features have impact on “target” variable and so on. Then we thought of moving to tree-based model like decision tree and random forest.
+
+Logistic regression: We have splitted data into train and test set with 70%-30% split. We tried fitting the model. Top relevant features were noted. We analyzed the deviance table, assessed predictive ability of the model by using ROC / AUC, confusion matrix. Then precision, recall rates were computed. 
+
+Then we tried running simple decision tree and then moved on to run the Random Forest model. AUC plotted and confusion matrix computed.
+
+Random Forest: We have used same split ratio of train and test dataset of 70%-30%. We tried finding error rates – which is higher for “churn cases” and lower for “no churn cases”. We looked at mean decrease gini to look at features of importance. AUC is drawn which is better than other models. Precision, recall rates were computed.
+
+Some of the interpretations that we were able to analyze – 
+- Customers with shorter tenure (0-12 months, and to some extent 12-36 months) are expected to churn more compared to those which have stayed with long term relationship with the bank.
+- No matter whatever is the Age and Gender churn may happen. So, Age and Gender have limited impact on target variable.
+- Customers owning more number of products (# of product holding pattern) have less churn rates. E.g. those who have savings account, current account, term deposit account and mutual funds tend to stay longer and may not churn.
+- From a product type standpoint, those customers having loan accounts or structured products have less churn rates.
+
+Model evaluation has been performed using K-S Lift charts, ROC curve, AUC. Accuracy of 83% was achieved. Precision gave us how many instances we were able to predict actual churn cases correctly and Recall gave us how many instances we were able to predict non churn cases accurately. Both were important and hence F1 score was computed for every experiment and basis that, model was considered.
+
+
+## 4) Solution Implementation
