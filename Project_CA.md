@@ -118,3 +118,14 @@ Yes the solution was implemented. My role was to lead the analytics track for en
 - Anticipating and managing risks associated with customer churn better.
 - Key segments of high net worth customers were offered with personalized product / service offerings
 
+There was no monitoring of model factors or automation as such, since the model and solution implemented was for an one time basis. However, after the initial deployment of model, expectation was set to revisit the solution in few months’ time to see if same accuracy exists with new set of data, else there was a recommendation to retrain the model every 5-6 months basis new data input. The documentation was provided to client and user training was performed for set of identified users who would run the model going forward after initial implementation / deployment. 
+
+While this was a one-time model deployment, we identified the factors / features that the model was sensitive to.  Key factors were - age of product holding or tenure, number of active accounts of users, IsActiveCustomer, type of product held by user etc.    
+
+We provided the monitoring feature to track the variation in data every month for above key parameters. Tracking on updated data will show if there is more than 10% of variation in data for these factors every month. When variation exceeds this threshold, then there was a recommendation to retrain the model with new dataset.
+
+As part of retrospect, some of the aspects that could have been done differently would be based on some of our lessons learnt in the process. Some of the key lessons learnt as part of this program are as follows:
+- Effort has been taken to understand key KPI themes and KPI areas in a detailed manner. There is a need to have a template defined by industry specifically for BFSI etc to be able to derive those effectively and quickly while embarking on these complex engagements. 
+- Educating various stakeholders about the importance of data quality, historical data, the influential parameters that impact the outcome of a model prediction are critical. Hence explaining detail pipeline is important and can be documented in future purposes of similar exercise where those may be helpful.
+- CLTV (Customer life time value) has to be based on historical value (acquisition cost of a customer) + future value (development and retention cost of customer). 
+- Profile based on multiple historical data that were aggregated are key for feature engineering process. The more rich and accurate it is, the better is the prediction outcome.
