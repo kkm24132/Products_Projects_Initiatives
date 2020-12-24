@@ -60,3 +60,27 @@ Some of the exploratory data analysis that were used are as follows:
 - Profitability distribution by time and product
 - Write off distribution by time and product
 
+![Image21](/images/Image21.png)
+
+Above are illustrative data just to show an idea of the exploratory data analysis performed in most cases.
+
+We have used R to leverage data analysis efforts.
+As part of data preparation process, key historical data aggregated:  
+- Customer demographics information (e.g. Age, Income, Region)
+- Transactional information, Vintage data and RFM scores (e.g. number of transactions, transaction value, Age on book), Recency is based on when customer has started using the product, Frequency is based on number of transactions on product type, Monetary value is based on the average transaction value for the product. While lower recency score is better, higher Frequency and Monetary scores are desirable
+- Product holding information (# of active accounts, # of loans, # of credit cards etc.),
+- Delinquency data (# of days delinquent, amount delinquent), etc. 
+- Relationship size (Tenure from a category – 0-12 months, 12-36 months and so on) and few others
+
+To identify loyal customers from the customer pool, customers with higher age on book and better profitability has been identified. Tenure categories were defined like 0-12 months, 12-36 months etc.
+
+![Image22](/images/Image22.png)
+
+In order to prepare data for feature engineering, we prepared data looking at cohort time windows i.e. historical data window (Cohort month to prior 12 months) and performance data window (Cohort month to post 12 months) have been considered. We checked and cleaned missing data if any based on every customer ids. Any duplicate data also has been removed. Cohort month wise time intervals considered and analyzed. This indicates product holding pattern of the customer over a period of time. We have added new variables such as “IsActiveCustomer” based on this input to our overall feature set.
+
+For example, a user/customer who is using a particular product such as Term Deposit Account, Current Account, Savings Account, Structured Product, Mutual Fund etc. over a period of time can be analyzed to see the life time of that product type over a period of time by the user/customer.  We have used heat maps to get visualization of retention rate over a period of time to indicate whether user/customer is active or not. The retention rate indicates percentage of active users compared to total number of users available. 
+
+To get the attrition probability of the customer, significant factors causing attrition has been found out. Scoring mechanism done to generate a threshold of attrition rate.
+
+![Image23](/images/Image23.png)
+
