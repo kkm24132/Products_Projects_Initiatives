@@ -1,5 +1,5 @@
 # Major Project Details of KAMALA KANTA MISHRA
-This repository contains major projects, solutions, products, initiatives worked by me during my professional career. This is non-exhaustive and I have attempted to provide a very high level summary of major work performed in last few years.
+This repository contains major projects, solutions, products, initiatives worked by me during my professional career. This is non-exhaustive and I have attempted to provide a very high level summary of major work performed in last few years, leveraging Data Science.
 
 ## Major Projects / Products / Initiatives 
 
