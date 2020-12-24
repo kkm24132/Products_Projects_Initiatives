@@ -10,7 +10,7 @@ Technology area | Data Science, Machine Learning, Time Series Forecasting
 
 I am involved in all stages of CRISP-DM phases and it is iterative and ongoing for multiple experiments / improvements and enhancements.
 
-## 1)Business Environment
+## 1) Business Environment
 
 The client is one of the largest manufacturing firm in the world, focusing around manufacturing in agriculture, and forestry machinery used in heavy equipment spread across multiple geographies. This project was catering to a specific unit and its geography. The firm had shown consistent growth in its revenue from its machinery sales since its inception. Over the years, the firm had struggled to keep its inventory and production cost down because of variability in sales and machinery demand. 
 
@@ -24,7 +24,7 @@ As a part of this project, we have proposed the client to start this transformat
 
 The MIS team shared the month wise sales figures (number of equipment sold) for the last 10+ years in input data file.
 
-## 2)Planning
+## 2) Planning
 
 We followed the CRISP-DM methodology and entire life cycle around it. Since it was a forecasting type of a problem, we went into details and defined it very specific to forecasting process (which is elaborated in Figure 1). It was aligned with primary CRISP-DM steps which are as follows: 
 -	Business Understanding 
@@ -71,7 +71,7 @@ Post our initial data observation, we had planned for a workshop with client to 
 
 We have used R and Python to leverage exploratory data analysis efforts here. The deliverables were – one to provide report with exploratory data analysis and second is to provide report with final forecasted output sales numbers with a confidence interval and provide our recommendations as part of the solution.
 
-## 3)Solution Development
+## 3) Solution Development
 
 To decipher underlying patterns in equipment sales, we have proposed to build a multiplicative time series decomposition model with equation such as:
 
@@ -119,7 +119,7 @@ Forecasting for a longer period such as 3 years had been a tough ask considering
 We proposed a 3-year forecast, at the same time we also set expectation to revisit it every 3-6 months cycle so that the forecasting model can be re-calibrated to see if there is any change at that point in time.
 
 
-## 4)Solution Implementation
+## 4) Solution Implementation
 
 The model / solution was implemented for the manufacturing client. Key business outcomes accomplished are 
 - Providing desired forecasting solution for equipment sales which was the primary objective for the client.
