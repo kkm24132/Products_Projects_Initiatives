@@ -112,3 +112,9 @@ From a deployment perspective, we have generated the model predictions and provi
 
 
 ## 4) Solution Implementation
+
+Yes the solution was implemented. My role was to lead the analytics track for entire duration of the program. This was part of an analytics solution that was built on top of the universal banking application of the firm that was already implemented at customer environment and focus was to develop analytics layer from customer analytics perspective. I had to collaborate across multiple teams located across various geographies. My collaboration with programmer analysts, business analysts and all stakeholders have been fundamental throughout the entire life cycle of the program. I have worked closely with the global team and we as a team have provided solutions which has impacted significant client value and benefits. The project was a success as the solution has met intended objectives that was laid down at the start of the engagement. The model and solution that was used for the financial client and has a strong proven success story. Key business outcomes accomplished are as follows:
+- Reducing churn rates by approximately 8%~10% and amplifying service offerings.
+- Anticipating and managing risks associated with customer churn better.
+- Key segments of high net worth customers were offered with personalized product / service offerings
+
