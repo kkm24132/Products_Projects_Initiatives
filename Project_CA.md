@@ -106,5 +106,9 @@ Some of the interpretations that we were able to analyze –
 
 Model evaluation has been performed using K-S Lift charts, ROC curve, AUC. Accuracy of 83% was achieved. Precision gave us how many instances we were able to predict actual churn cases correctly and Recall gave us how many instances we were able to predict non churn cases accurately. Both were important and hence F1 score was computed for every experiment and basis that, model was considered.
 
+![Image24](/images/Image24.png)
+
+From a deployment perspective, we have generated the model predictions and provided probability of churn by customer id as a spreadsheet to customer. This is a one time activity. Recommendation was to execute this, on a monthly basis to generate predictions based on new data / updated data.
+
 
 ## 4) Solution Implementation
