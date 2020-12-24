@@ -10,7 +10,7 @@ Technology area | Data Science, Machine Learning, Deep Learning
 
 I am involved in all stages of CRISP-DM phases and it is iterative and ongoing for multiple experiments / improvements and enhancements.
 
-## 1)Business Environment
+## 1) Business Environment
 
 The customer is the largest banking organization in the world in terms of market capitalization, total assets, deposits, loans, number of customers and number of employees. This project was intended for one of their division in Latin America in Argentina.  ATM and branch operations has been a key area of focus for the bank and they wanted to embark on a transformational journey to leverage Data Science and Analytics for better return on investment, optimize their costs, improve customer satisfaction by ensuring increase in availability of install bases.
 
@@ -26,7 +26,7 @@ There was no method or system available to optimally predict failure of ATM devi
 
 I have been involved as a Senior Data Scientist for more than a year in this offering / program, responsible for delivering solution / predictions in production on a monthly basis for the client. This solution has been in production for multiple quarters. This has been an ongoing journey for our firm where we have multiple teams located across various geographies. My collaboration with data analysts, program managers and all stakeholders have been fundamental throughout the entire life cycle of the program. I have worked closely with team in Europe geography and we as a team have provided solutions which has impacted significant client value. We used to provide our inputs and solution to local teams based out of Argentina from the organization and they used to interact with clients to deliver the solution to them.
 
-## 2)Planning
+## 2) Planning
 
 We followed the CRISP-DM methodology and entire life cycle:
 
@@ -76,7 +76,7 @@ and every component / module as applicable. Based on these predictions, resource
 
 As part of initial versions of solution roadmap, various parameters and features are used to come up with the model and the same is deployed in production for clients. (e.g. parameters and input data related to inventory of device/asset, service ticket information, error / event log information, transaction information). In case of conflict, we have used best practices and agreed on experiments based on outcomes.  We used Github significantly to collaborate, maintain and track our code base, data pipeline routines, issues in a structured manner and agile data science was followed. The development environment is where we used to train our models and test various experiments. Post model evaluation, we used to select the best model and use that as a pretrained model to execute for new data for generating predictions.
 
-## 3)Solution Development
+## 3) Solution Development
 
 The solution that I come up with along with the team is a “predictive engine” that looks at various parameters such as Service Tickets, Event Code / Error Codes relating to a component of the device, Inventory of the device, Installation date, Age of device, Number of Transactions till date for a particular device, Type of transactions performed etc. to provide a quantitative understanding of device health check and accurately provide when the device will break down and more importantly provides an ability to predict component of the device going to fail and underlying causes that may potentially occur in future.
 
@@ -123,7 +123,7 @@ Final predictive output that is generated in an excel format includes device id,
 
 ![Image6](/images/Image6.png)
 
-## 4)Solution Implementation
+## 4) Solution Implementation
 
 The model and solution is used for the financial client and has a strong proven success story already running in production. The business objective for the financial giant is to move up the value chain leveraging predictive to showcase impact in terms of increase in availability of devices, reducing downtime of devices, ability to decrease service tickets and become leading brand in their geography based on customer satisfaction. The business objectives are achieved with this and goal is to further research and scale this beyond multiple financial clients and other industries.
 
