@@ -48,3 +48,51 @@ Some of the key data analysis provided below insights:
 
 ![Image27](/images/Image27.png)
 
+Post our initial data observation, we had planned for a workshop with client to go through these details and present them with an update in current progress and set expectations as we move forward. We used secured gateway channel and visual source safe to manage and track code and share information across relevant stakeholders at regular intervals with restricted access to respective teams. Access to visual source safe and secured gateway were restricted to the respective team members and stakeholders that are supposed to view this information. This helped follow an agile process and driving communications in an optimal setup manner.
+
+We have used R and Python to leverage exploratory data analysis, model development and evaluation approaches here. The deliverables were – one to provide the report with exploratory data analysis and second is to provide report with final predictions for insurance renewal and computation of incentives for agents as per our recommendations as part of the solution.
+
+## 3) Solution Development
+
+We started with manipulating some of the features which were needed to prepare our Machine learning dataset as an input to model experiments.
+Sourcing channel types were categorical with 5 types and we have encoded them to spread across 5 additional parameters for the dataset – one each for every category. Based on the value one of them will be set to 1 and rest all parameters will be set to 0 for that row.
+Amount paid column is added with computation by multiplying “number of premiums paid by user” and the “premium amount”.
+Age in days in policy has also been recoded (as one hot encoding) to reflect 1/2/3/4 based on range from 0-10000, 10001-20000 and so on.
+
+Training dataset has been split further into 80% and 20%. Objective was to create a data partition so that we build models using the 80% of the training data and test our model using the remaining 20% to gauge the model performance and feature set considered for the model.
+
+We used multiple experiments to predict renewal since it was a binary classification problem. The key was to perform feature engineering and selecting features based on importance and their influence on target variable.
+
+Regression, Random forest, Decision tree approaches were used. We also used LightGBM which is essentially a fast, distributed high performance light gradient boosting framework based on the simple decision tree approach. Since it is based on decision tree algorithm, it splits the tree leaf wise with the best fit. Therefore, while growing on the same leaf in Light GBM, the leaf-wise algorithm can reduce more loss than the level-wise algorithm and hence results in much better accuracy. Boosting mechanism is automatically used to handle the overfitting of data here as the class was highly imbalanced set.
+
+Feature importance plot is drawn to get an understanding of the feature set for refinement.
+
+![Image28](/images/Image28.png)
+
+AUC score was used to measure the performance. Training of model was iterated until validation scores don’t improve for 200 rounds. Hyper parameter tuning were done based on specific assumptions. (learning rate of 0.02, max depth of 8, max bin size of 100, boosting was performed as per gradient boosting decision tree method). Seed was set to a specific value to compare the AUC scores. Finally getting an AUC of around 0.849 was high-performance model. This was on the training set. The predictions were generated on the test set later. 
+
+![Image29](/images/Image29.png)
+
+Post this differentiation was used to maximize incentives for agents considering given parameters. We have had discussions with key stakeholder from client side to determine the benchmark to be considered while computing the agent incentive.
+
+Finally for each user, renewal probability and incentive amount was computed and provided as the final output. Final output was saved to a csv file and shared with client for their further consumption.
+
+A sample file of prediction file will look as follows. Below is an illustrative and masked data created to give a feel of the output file that was generated.
+
+![Image30](/images/Image30.png)
+
+
+## 4) Solution Implementation
+
+The model / solution was implemented for the insurer.  They were able to realize value within 3 months of implementing actions based on the predictions shared with them. 
+- Client used the prediction probability to take better informed decisions about their end customers – who are more likely to renew the insurance.
+- Computing the incentive amount for agents helped them strategize entire process and how to allocate agents accordingly and manage their incentives. Effort towards campaigns were managed better after implementation of the solution. 
+- Client wanted to perform this as an ongoing effort (generating prediction monthly for their business) for next few quarters to see the impact and leverage from it.
+
+I had played the lead role in driving the solution which we had developed from end to end perspective. This also has resulted in giving us more work as we were able to influence client to help them in their journey which has started as part of this effort here. Recommending them to look at a solution with continuous prediction had been appreciated as client have seen the impact.
+
+Some of the key lessons learnt as part of this program are as follows:
+- Planning and conducting multiple workshops to discuss with client touch points, stakeholders much early and following agile process helped us streamline few aspects. This was a great experience and we wanted to continue this practice for future projects. This need to be defined in the plans clearly.
+- Educating various stakeholders about the importance of the methodology and aligning to kind of a CRISP-DM framework helped.
+- Adding exploratory data analysis report as a deliverable was key and walking customer in a workshop based on the findings helped in the overall success of the project.
+
