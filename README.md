@@ -3,12 +3,13 @@
 This repository contains major projects, solutions, products, initiatives worked by me during my professional career. This is non-exhaustive and I have attempted to provide a very high level summary of major work performed in last few years, leveraging Data Science. Not all projects are captured here. Only significant Data Science focused projects are captured to provide a reflection of my deep expertise in the sector and significant global outcomes accomplished as part of these initiatives.
 
 **Key dimensions:**
-- Confidence shown to Clients, Stakeholders by demonstrating end-to-end CRISP-DM framework
+- Confidence shown to Clients, Stakeholders by demonstrating end-to-end CRISP-DM (Cross Industry Standard Process for Data Mining) framework
 - Outcomes, Value and Impact demonstrated to Clients, Stakeholders with tangible aspects such as - Public Client Reference of the work, A% cost savings, B% Availability improvement, C% prediction accuracy etc.
 - Recommendations as a partner in the areas of MLOps, ML Explainability, Data drift, Model drift, Responsible AI/ML, Ethical AI/ML etc.
 - Multiple breadth of Data Science problems solved such as Classification, Clustering, Neural Networks, Forecasting, Survival Analytics, Deep Learning etc.
 - Use cases solved for multiple domains such as Banking and Financial Services, Insurance, Retail and CPG, Healthcare, Manufacturing etc.
 - Use cases solved across functions within X Analytics for Data Science such as - Customer Analytics, Risk Analytics, Marketing Analytics, Predictive Analytics, Healthcare Analytics etc.
+- Innovation and Thought Leadership dimension linked to Data Science work (in terms of filing patents, presenting papers in conferences, blogging, mentoring etc.)
 
 ## Major Projects / Products / Initiatives 
 
