@@ -82,3 +82,16 @@ Some of key recommendations that we have were –
 - Clustering indicated that adult patients look for details around dosing usage and frequency in the second visit.
 - Dosing of most specialty pharmacy products / drugs are occurring on second visit of a patient, which may be several months after the first visit. There is an opportunity to make dosing happen on the first visit itself with additional coaching of both physicians and patients.
 - Physicians have a misconception about inhibitor rates of some products, correcting this assumption could lead to much higher rates of enrollment. Increase in enrollments will help increase product usage and direct impact on revenue.
+
+## 4) Solution Implementation
+
+The model / solution was implemented for the firm.  They were able to realize value within few months of implementing actions based on the recommendations shared with them. Additionally, the descriptive statistics that were created as part of analysis helped them a lot in their operational and tactical decision making. This gave them key indicator about what patient types are influencing which products and they were able to act accordingly.
+
+I had played the lead role in driving the solution which we had developed from a holistic approach perspective. This also has resulted in giving us more work as we were able to influence client to help them in their journey which has started as part of this effort here. 
+
+Some of the key lessons learnt as part of this program are as follows:
+- Planning and conducting multiple workshops to discuss with client touch points, stakeholders much early and following agile process helped us streamline few aspects. This was a great experience and we wanted to continue this practice for future projects. This has to be defined in the plans clearly and early in the engagement.
+- Explaining them about the solution with domain aspect has helped them a lot since this is a very focused area within pharmaceutical category. This type of products / drugs is sold based on referrals, prescriber inputs and very limited manufacturers who produce these products. Hence patient clustering and providing insight on some key metrics help take firm data driven decisions by coordinating with players within the ecosystem.
+- Educating stakeholders about the importance of the methodology and aligning to CRISP-DM framework has helped significantly in the overall journey.
+- From a planning perspective, considering inclusion of vacation time upfront would have helped better and we could have managed that better from the start of the engagement.
+
