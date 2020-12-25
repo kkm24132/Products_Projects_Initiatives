@@ -50,6 +50,10 @@ From prescriber point of view, we wanted to analyze top N prescribers, new presc
 
 We used secured gateway channel and visual source safe to collaborate documents, code and share information across relevant stakeholders at regular intervals with restricted access to respective teams. Access to visual source safe and secured gateway were restricted to the respective team members and stakeholders that are supposed to view this information. We also had regular weekly touch points with client SPOC to be able to review progress considering very tight timelines. 
 
-We have used R and Python to leverage exploratory data analysis, model development and evaluation approaches here. The deliverables were – one to provide the report with descriptive data analysis and second is to provide report with final clustering approach and model with our recommendations on way forward.
+We have used R and Python to leverage exploratory data analysis, model development and evaluation approaches here. The deliverables were 
+– One to provide the report with descriptive data analysis and 
+- Second, is to provide report with final clustering approach and model with our recommendations on way forward.
 
 ## 3) Solution Development
+
+
