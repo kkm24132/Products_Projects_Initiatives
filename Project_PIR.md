@@ -46,3 +46,5 @@ Some of the key data analysis provided below insights:
 - Age in days of policy holder spread across which was recoded as a one hot encoding to numeric labels from categorical range segment. 
 - Analysing the spread of target variable (which is “renewal” as 0 or 1) with regards to parameters such as – policy age in days category, count all late (3-6 months late, 6-12 months late and 12+ months late cases), residence area by rural/urban, sourcing channels by 5 categories etc.
 
+![Image27](/images/Image27.png)
+
