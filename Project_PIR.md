@@ -31,7 +31,7 @@ The input data file that were provided had test and train set. Train dataset had
 We followed the CRISP-DM methodology and entire life cycle around it. The steps were defined as follows: 
 - Business Understanding 
 - Data Understanding
-- Data Preparation
+- Data Preparation and Feature Engineering
 - Model development
 - Model evaluation
 - Deployment
