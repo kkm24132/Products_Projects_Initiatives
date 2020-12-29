@@ -32,7 +32,7 @@ We followed the CRISP-DM methodology and entire life cycle:
 
 * Business Understanding 
 * Data Understanding
-* Data Preparation
+* Data Preparation and Feature Engineering
 * Model development
 * Model evaluation
 * Deployment
