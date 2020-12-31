@@ -1,6 +1,6 @@
 # Major Project Details of KAMALA KANTA MISHRA  (Kamal)
 
-**This repository contains major projects, solutions, products, initiatives worked by me during my professional career. This is non-exhaustive and I have attempted to provide a very high level summary of major work performed in last few years, leveraging Data Science. Not all projects are captured here. Only significant Data Science focused projects are captured to provide a reflection of my deep expertise in the sector and significant global outcomes accomplished as part of these initiatives.**
+*This repository contains major projects, solutions, products, initiatives worked by me during my professional career. This is non-exhaustive and I have attempted to provide a very high level summary of major work performed in last few years, leveraging Data Science. Not all projects are captured here. Only significant Data Science focused projects are captured to provide a reflection of my deep expertise in the sector and significant global outcomes accomplished as part of these initiatives.*
 
 **Key dimensions:**
 - Outcomes, Value and Impact demonstrated to Clients, Stakeholders with tangible aspects such as - Public Client Reference of the work, A% cost savings, B% Availability improvement, C% prediction accuracy etc.
