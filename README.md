@@ -22,5 +22,5 @@ Clustering patients for specialty pharmacy - [Click Here for Details](/Project_C
 
 
 **Disclaimer:**
-These are captured and documented to demonstrate my success, project details, global presence, value and impact created etc. and are best to my knowledge and experiences. This do not represent any opinions from or on any firms or any institute.
+*These are captured and documented to demonstrate my success, project details, global presence, value and impact created etc. and are best to my knowledge and experiences. This do not represent any opinions from or on any firms or any institute.*
 
