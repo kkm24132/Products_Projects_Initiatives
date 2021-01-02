@@ -2,14 +2,6 @@
 
 *This repository contains major projects, solutions, products, initiatives worked by me during my professional career. This is non-exhaustive and I have attempted to provide a very high level summary of major work performed in last few years, leveraging Data Science. Not all projects are captured here. Only significant Data Science focused projects are captured to provide a reflection of my deep expertise in the sector and significant global outcomes accomplished as part of these initiatives.*
 
-**```Key dimensions:```**
-- Outcomes, Value and Impact demonstrated to Clients, Stakeholders with tangible aspects such as - Public Client Reference of the work, A% cost savings, B% Availability improvement, C% prediction accuracy etc.
-- Confidence shown to Clients, Stakeholders by demonstrating end-to-end CRISP-DM (Cross Industry Standard Process for Data Mining) framework
-- Recommendations as a partner in the areas of MLOps, ML Explainability, Data drift, Model drift, Responsible AI/ML, Ethical AI/ML etc.
-- Multiple breadth of Data Science problems solved such as Classification, Clustering, Neural Networks, Forecasting, Survival Analytics, Deep Learning etc.
-- Use cases solved for multiple domains such as Banking and Financial Services, Insurance, Retail and CPG, Healthcare, Manufacturing etc.
-- Use cases solved across functions within X Analytics for Data Science such as - Customer Analytics, Risk Analytics, Marketing Analytics, Predictive Analytics, Healthcare Analytics etc.
-- Innovation and Thought Leadership dimension linked to Data Science work (in terms of filing patents, presenting papers in conferences, blogging, mentoring etc.)
 
 ## Major Projects / Products / Initiatives 
 
@@ -19,6 +11,15 @@ Failure prediction model for Predictive Maintenance - [Click Here for Details](/
 Forecasting equipment sales - [Click Here for Details](/Project_FES.md) (One of the Manufacturing Major) | The objective was to develop an approach to forecast sales for customer’s machinery equipment for next 3 years and customer wanted us to be able to provide them clarity with exploratory data analysis so that they have “end to end visibility” of what is happening. I have used machine learning models using ARIMA, Holt winters, LSTM to provide forecasting solutions | Data Science CRISP DM framrework, Forecasting, ARIMA, Holt Winters, LSTM, Feature Engineering | Machine Learning solution provides ability to plan equipments for 3-6 months in advance for Customer and drive their business effectively, Cost savings up to 20% on y-o-y comparision 
 Customer analytics solution - [Click Here for Details](/Project_CA.md) (One of the Banking and Financial Services Major) | The customer which is a global financial services major was facing challenges profiling their customers / end users that are vulnerable to churn and wanted us to help them in devising retention strategies for retention of their end customers. We have used Machine Learning solution to classify customers in different buckets and help in decision making and insights. | Data Science CRISP DM framrework, Classification, Random Forest, Logistic Regression, Decision Trees, F1 score | Ability to provide Next Best Offers to Customers and Increase up to 8%-10% of their revenue
 Clustering patients for specialty pharmacy - [Click Here for Details](/Project_CPSP.md) (World's leading Biotech firm) | Clustering of patients for Specialty pharmacy for one of the largest biotech major to provide an ability to view patient services metrics, view weekly patient update based on specific product, to understand prescriber uptake and to cluster group of patients with similar characteristics to be able to offer specific product and services to those set of patients | Data Science CRISP DM framrework, PCA for dimenstionality reduction, Feature Engineering, KMeans, Euclidean distance, Jacquard's distance, Gower's dissimilarity coefficient, Elbow criteria | Customer / Patient satisfaction increase up to 10 percent points, Customer visit cost to hospitals reduced by up to 40 percent points, Alignment of drugs/products efficient due to better inventory of those products
+
+**```Key dimensions:```**
+- Outcomes, Value and Impact demonstrated to Clients, Stakeholders with tangible aspects such as - Public Client Reference of the work, A% cost savings, B% Availability improvement, C% prediction accuracy etc.
+- Confidence shown to Clients, Stakeholders by demonstrating end-to-end CRISP-DM (Cross Industry Standard Process for Data Mining) framework
+- Recommendations as a partner in the areas of MLOps, ML Explainability, Data drift, Model drift, Responsible AI/ML, Ethical AI/ML etc.
+- Multiple breadth of Data Science problems solved such as Classification, Clustering, Neural Networks, Forecasting, Survival Analytics, Deep Learning etc.
+- Use cases solved for multiple domains such as Banking and Financial Services, Insurance, Retail and CPG, Healthcare, Manufacturing etc.
+- Use cases solved across functions within X Analytics for Data Science such as - Customer Analytics, Risk Analytics, Marketing Analytics, Predictive Analytics, Healthcare Analytics etc.
+- Innovation and Thought Leadership dimension linked to Data Science work (in terms of filing patents, presenting papers in conferences, blogging, mentoring etc.)
 
 
 **Disclaimer:**
