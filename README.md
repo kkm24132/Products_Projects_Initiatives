@@ -4,6 +4,7 @@
 
 
 ## Major Projects / Products / Initiatives 
+(Below is a high level view of major recent projects, the link reference on first column will provide details around each project)
 
 Project/Product/Initiative Name | Description  | Data Science Techniques Used | Business Outcomes, Impact and Value
 --------------------------------|--------------|------------------------------|------------------------------------
