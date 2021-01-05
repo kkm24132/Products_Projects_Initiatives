@@ -1,7 +1,7 @@
 ## Project Overview - "Forecasting Equipment Sales"
 
 Key Parameters | Description
----------------|------------------
+:--            |:--
 Project Name   | Forecasting Equipment Sales
 Client Industry| Manufacturing
 Nature of project| Revenue Generation
