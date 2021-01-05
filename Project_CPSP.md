@@ -1,7 +1,7 @@
 ## Project Overview - "Clustering Patients for Specialty Pharmacy"
 
 Key Parameters | Description
----------------|------------------
+:--            |:--
 Project Name   | Clustering Patients for Specialty Pharmacy
 Client Industry| Healthcare
 Nature of project| Revenue Generation
