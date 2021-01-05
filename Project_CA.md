@@ -1,7 +1,7 @@
 ## Project Overview - "Customer Analytics Solution"
 
 Key Parameters | Description
----------------|------------------
+:--            |:--
 Project Name   | Customer Analytics Solution
 Client Industry| Banking (BFSI)
 Nature of project| Revenue Generation
