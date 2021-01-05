@@ -1,7 +1,7 @@
 ## Project Overview - "Failure Prediction Model/Solution for Predictive Maintenance"
 
 Key Parameters | Description
----------------|------------------
+:--            |:--
 Project Name   | Predictive Maintenance – Failure Prediction Solution
 Client Industry| Banking and Financial Services (BFS)
 Nature of project| Revenue Generation and Expense Reduction
