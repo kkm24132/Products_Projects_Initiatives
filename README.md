@@ -23,6 +23,11 @@ Project/Product/Initiative Name | Description  | Data Science Techniques Used | 
 - Use cases solved across functions within X Analytics for Data Science such as - Customer Analytics, Risk Analytics, Marketing Analytics, Predictive Analytics, Healthcare Analytics etc.
 - Innovation and Thought Leadership dimension linked to Data Science work (in terms of filing patents, presenting papers in conferences, blogging, mentoring etc.)
 
+## Recent Appearances in Public Domain 
+**Contributions in Data Science and AI Thought Leadership**
+
+- [Webinar on Accelerate Data Science and Responsible AI](https://www.linkedin.com/feed/update/urn:li:activity:6811518760365764608) - June 2021
+- Panel Discussion at Kaggle Days Meetup Delhi NCR Chapter[Data Science Ecosystem and Hiring Prospects in India](https://www.youtube.com/watch?v=uY4Pq6rMwpU&t=30s) - May 2021
 
 **Disclaimer:**
 *These are captured and documented to demonstrate my success, project details, global presence, value and impact created, etc., and are best to my knowledge and experiences. This does not represent any opinions from or on any firms or any institute.*
