@@ -24,7 +24,7 @@ Project/Product/Initiative Name | Description  | Data Science Techniques Used | 
 - Innovation and Thought Leadership dimension linked to Data Science work (in terms of filing patents, presenting papers in conferences, blogging, mentoring etc.)
 
 ## Recent Appearances in Public Domain 
-**Contributions in Data Science and AI Thought Leadership**
+**Contributions in Data Science and AI Thought Leadership / DigiTech Sector**
 
 - June 2021: Webinar on [Accelerate Data Science and Responsible AI](https://www.linkedin.com/feed/update/urn:li:activity:6811518760365764608) The [YouTube Link](https://www.youtube.com/watch?v=WcsL7qs4nuY)
 - May 2021: Panel Discussion at Kaggle Days Meetup Delhi NCR Chapter on [Data Science Ecosystem and Hiring Prospects in India](https://www.youtube.com/watch?v=uY4Pq6rMwpU&t=30s)
