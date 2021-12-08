@@ -30,6 +30,8 @@ Project/Product/Initiative Name | Description  | Data Science Techniques Used | 
 - May 2021: Panel Discussion at Kaggle Days Meetup Delhi NCR Chapter on [Data Science Ecosystem and Hiring Prospects in India](https://www.youtube.com/watch?v=uY4Pq6rMwpU&t=30s)
 
 
+## [Medium.com Profile - Kamal on Blogs, PoVs](https://medium.com/@mishra.kamal)
+## [Google Scholar Link - Kamal](https://scholar.google.com/citations?user=lc84CA0AAAAJ&hl=en)
 
 ----------------------------------------------------------------
 
