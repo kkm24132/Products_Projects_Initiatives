@@ -1,9 +1,9 @@
 # Snapshot of few Project details - ```Kamala Kanta Mishra (Kamal)```
 
-*This repository contains major projects, solutions, products, initiatives worked by me during my professional career. This is non-exhaustive and I have attempted to provide a very high level summary of major work performed in last few years, leveraging Data Science. Not all projects are captured here. Only significant Data Science focused projects are captured to provide a reflection of my deep expertise in the sector and significant global outcomes accomplished as part of these initiatives.*
+*This repository contains few of the major projects, solutions, products, initiatives worked and led by me during my professional career. This is non-exhaustive and I have attempted to provide a very high level summary of major work performed in last few years, leveraging Data Science. Not all projects are captured here. Only significant Data Science focused projects are captured to provide a reflection of my deep expertise in the sector and significant global outcomes accomplished as part of these initiatives.*
 
 
-## Major Projects / Products / Initiatives 
+## Major Projects (Product/Solution Development in Data Science and AI) - DigiTech Sector 
 (Below is a high level view of major recent projects, the link reference on first column will provide details around each project)
 
 Project/Product/Initiative Name | Description  | Data Science Techniques Used | Business Outcomes, Impact and Value
