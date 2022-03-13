@@ -15,13 +15,13 @@ Project/Product/Initiative Name | Description  | Data Science Techniques Used | 
 **Predict Insurance Renewal** - [Click Here for Details](/Project_PIR.md) (World's one of the largest insurance service provider firm) | Ability to develop an approach and solution to predict the propensity of insurance renewal, to be able to create an incentive plan for agents (at policy level) to maximize net revenues from these policies |Ensemble techniques used, Algorithm such as Regression, Random Forest, Decision Tree, LightGBM were used for experimentation | Value realized within 3 months of implementing actions based on predictions shared are as follows: a) Client used the prediction probability to take better informed decisions about their end customers – who are more likely to renew the insurance, b) Computing the incentive amount for agents helped them strategize entire process and how to allocate agents accordingly and manage their incentives. Effort towards campaigns were managed better after implementation of the solution, c) Client wanted to perform this as an ongoing effort (generating prediction monthly for their business) for next few quarters to see the impact and leverage from it.
 
 **```Key dimensions:```**
-- Outcomes, Value and Impact demonstrated to Clients, Stakeholders with tangible aspects such as - Public Client Reference of the work, A% cost savings, B% Availability improvement, C% prediction accuracy etc.
+- Outcomes, Value and Impact demonstrated to Clients, Stakeholders with tangible aspects such as - Public Client Reference of the work, % Cost savings, % Availability improvement, % Prediction accuracy etc.
 - Confidence shown to Clients, Stakeholders by demonstrating end-to-end CRISP-DM (Cross Industry Standard Process for Data Mining) framework
 - Recommendations as a partner in the areas of MLOps, ML Explainability, Data drift, Model drift, Responsible AI/ML, Ethical AI/ML etc.
-- Multiple breadth of Data Science problems solved such as Classification, Clustering, Neural Networks, Forecasting, Survival Analytics, Deep Learning etc.
+- Multiple breadth of Data Science problems solved such as Statistical inferences, Classification, Clustering, Neural Networks, Forecasting, Survival Analytics, Deep Learning etc.
 - Use cases solved for multiple domains such as Banking and Financial Services, Insurance, Retail and CPG, Healthcare, Manufacturing etc.
-- Use cases solved across functions within X Analytics for Data Science such as - Customer Analytics, Risk Analytics, Marketing Analytics, Predictive Analytics, Healthcare Analytics etc.
-- Innovation and Thought Leadership dimension linked to Data Science work (in terms of filing patents, presenting papers in conferences, blogging, mentoring etc.)
+- Use cases solved across functions within "X Analytics" for Data Science such as - Customer Analytics, Risk Analytics, Marketing Analytics, Predictive Analytics, Healthcare Analytics etc.
+- Innovation and Thought Leadership dimension linked to Data Science work (in terms of filing Patents, presenting papers in conferences, blogging, mentoring etc.)
 
 ## Recent Appearances in Public Domain 
 **Contributions in Data Science and AI Thought Leadership / DigiTech Sector**
