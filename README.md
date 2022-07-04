@@ -26,6 +26,7 @@ Project/Product/Initiative Name | Description  | Data Science Techniques Used | 
 ## Recent Appearances in Public Domain 
 **Contributions in Data Science and AI Thought Leadership / DigiTech Sector**
 
+- June 2022: KeyNote Speaker at [ICIMSI 2022 - 2nd International Conference on IMSI](https://www.linkedin.com/posts/kamalmishra07_keynotespeaker-icimsi-icimsi2022-activity-6945941645208997888-orup/?utm_source=linkedin_share&utm_medium=member_desktop_web) and [Certification of Appreciation - Twitter Ref](https://twitter.com/KKM_007/status/1543531466256433152) on ```Value and Impact of Data Science and AI in Industry 4.0/5.0```
 - June 2021: Webinar on [Accelerate Data Science and Responsible AI](https://www.linkedin.com/feed/update/urn:li:activity:6811518760365764608) The [YouTube Link](https://www.youtube.com/watch?v=WcsL7qs4nuY)
 - May 2021: Panel Discussion at Kaggle Days Meetup Delhi NCR Chapter on [Data Science Ecosystem and Hiring Prospects in India](https://www.youtube.com/watch?v=uY4Pq6rMwpU&t=30s)
 
