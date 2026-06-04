@@ -1,9 +1,9 @@
-# Snapshot of Projects by ```Kamala Kanta MISHRA (Kamal)```
+## Snapshot of Projects by ```Kamala Kanta MISHRA (Kamal)```
 
 *This repository contains few of the major projects, solutions, products, initiatives worked and led by me during my professional career. This is non-exhaustive and I have attempted to provide a very high level summary of major work performed in last few years, leveraging Data Science and Artificial Intelligence. Not all projects are captured here. Only significant Data Science focused projects are captured to provide a reflection of my deep expertise in the sector and significant global outcomes accomplished as part of these initiatives.*
 
 
-## Major Projects (Product/Solution Development in Data Science and AI) - DigiTech Sector 
+### Major Projects (Product/Solution Development in Data Science and AI) - DigiTech Sector 
 (Below is a high level view of major recent projects, the link reference on first column will provide details around each project)
 
 Project/Product/Initiative Name | Description  | Data Science Techniques Used | Business Outcomes, Impact and Value
@@ -23,7 +23,7 @@ Project/Product/Initiative Name | Description  | Data Science Techniques Used | 
 - Use cases solved across functions within "X Analytics" for Data Science such as - Customer Analytics, Risk Analytics, Marketing Analytics, Predictive Analytics, Healthcare Analytics etc.
 - Innovation and Thought Leadership dimension linked to Data Science work (in terms of filing Patents, presenting papers in conferences, blogging, mentoring etc.)
 
-## Recent Appearances in Public Domain 
+#### Recent Appearances in Public Domain 
 **Contributions in Data Science and AI Thought Leadership / DigiTech Sector**
 
 - June 2022: KeyNote Speaker at [ICIMSI 2022 - 2nd International Conference on IMSI](https://www.linkedin.com/posts/kamalmishra07_keynotespeaker-icimsi-icimsi2022-activity-6945941645208997888-orup/?utm_source=linkedin_share&utm_medium=member_desktop_web) and [Certification of Appreciation - Twitter Ref](https://twitter.com/KKM_007/status/1543531466256433152) on ```Value and Impact of Data Science and AI in Industry 4.0/5.0```
@@ -31,8 +31,8 @@ Project/Product/Initiative Name | Description  | Data Science Techniques Used | 
 - May 2021: Panel Discussion at Kaggle Days Meetup Delhi NCR Chapter on [Data Science Ecosystem and Hiring Prospects in India](https://www.youtube.com/watch?v=uY4Pq6rMwpU&t=30s)
 
 
-## [Medium.com Profile - Kamal on Blogs, PoVs](https://medium.com/@mishra.kamal)
-## [Google Scholar Link - Kamal](https://scholar.google.com/citations?user=lc84CA0AAAAJ&hl=en)
+### [Medium.com Profile - Kamal on Blogs, PoVs](https://medium.com/@mishra.kamal)
+### [Google Scholar Link - Kamal](https://scholar.google.com/citations?user=lc84CA0AAAAJ&hl=en)
 
 ----------------------------------------------------------------
 
