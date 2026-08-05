@@ -28,5 +28,6 @@ these influences at greater scale and depth. Together, these efforts demonstrate
 research platform that combines scale, depth, and privacy safeguards, while directly informing targeted initiatives 
 and policies to help all students, particularly those who are disadvantaged, finish school well.
 
+<img width="1218" height="708" alt="image" src="https://github.com/user-attachments/assets/74ba2286-5948-4a70-bdde-3d737ec9290d" />
 
 
