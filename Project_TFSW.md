@@ -13,11 +13,14 @@ wellbeing, achievement, and other key domains, providing greater scale and riche
 It is designed with strict safeguards so that all analysis occurs inside the department systems, while enabling advanced analysis and 
 machine learning to uncover the factors influencing educational outcomes for disadvantaged students in NSW.
 The department securely manages the platform and collaborates with universities to apply methods such as causal machine learning, Bayesian modelling and 
-Markov chains, with analysts reviewing and validating findings to ensure accuracy and alignment with policy priorities. The squad contributes qualitative perspectives by capturing 
+Markov chains, with analysts reviewing and validating findings to ensure accuracy and alignment with policy priorities. 
+
+The squad contributes qualitative perspectives by capturing 
 the voices of students, families, and educators to ensure that insights are grounded in lived experience. This collaboration establishes 
 a benchmark for secure, ethical, and impactful research partnerships within the education sector.
 The secure datalake supports the mission of ‘Thrive: Finishing School Well’, by providing a secure platform to examine 
 the key pillars of achievement, wellbeing, and equity through a sociotechnical framework. 
+
 It builds on prior analyses of the Longitudinal Study of Australian Children (LSAC), which identified factors such as 
 family economic circumstances, student mental health, sense of belonging and bullying, allowing researchers to explore 
 these influences at greater scale and depth. Together, these efforts demonstrate the value of a secure, collaborative 
