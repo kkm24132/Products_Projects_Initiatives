@@ -10,6 +10,7 @@ As part of this my focus is to lead development of a secure datalake, a first o
 that allows external researchers to explore and analyze departmental data within a fully controlled environment. 
 Hosted in Microsoft Fabric and accessed only through Azure Virtual Desktop, the secure datalake links de-identified data across enrolments, attendance, 
 wellbeing, achievement, and other key domains, providing greater scale and richer detail. 
+
 It is designed with strict safeguards so that all analysis occurs inside the department systems, while enabling advanced analysis and 
 machine learning to uncover the factors influencing educational outcomes for disadvantaged students in NSW.
 The department securely manages the platform and collaborates with universities to apply methods such as causal machine learning, Bayesian modelling and 
